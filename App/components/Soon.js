@@ -24,7 +24,7 @@ function Soon(props) {
     </View>
 
     <View>
-    <Text>Download on the</Text>
+    <Text>Download on the </Text>
 
     <View style={styles.store}>
     <Icon name="app-store" size={30} color="black" />
